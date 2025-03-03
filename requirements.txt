@@ -1,0 +1,4 @@
+maltego-trx
+requests
+beautifulsoup4
+masto
