@@ -4,6 +4,11 @@
 
 A **Maltego transform** for [Masto OSINT Tool](https://github.com/C3n7ral051nt4g3ncy/Masto) 🕵️‍♂️, allowing Mastodon username searches across **Mastodon API** and the Masto **Fediverse instance list**.
 
+*Speed was increased in the video below, the transform can somtimes take longer;*
+
+https://github.com/user-attachments/assets/6bc33c05-dbeb-4bc1-81af-6b1f4baa81c7
+
+
 
 ```
 📦 masto_maltego_transform
