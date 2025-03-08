@@ -61,7 +61,7 @@ pip install maltego-trx
 ###  **3️⃣ Run the Transform Server**
 🚀 Start the local transform server:
 ```bash
-python project.py runserver
+python3 project.py runserver
 ```
 **Leave this running while using Maltego.**
 
